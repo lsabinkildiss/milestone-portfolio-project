@@ -1,0 +1,58 @@
+
+body {
+	height: 3300px;
+}
+
+body p {
+font-family: font-family: 'Josefin Sans', sans-serif;
+}
+
+#header {
+    height: 800px;
+    background: url('../img/jess-watters-483666-unsplash.jpg');
+    background-size: cover;
+}
+
+#portfolio {
+height: 1350px;
+}
+
+#about {
+height: 700px;
+}
+
+#contact {
+height: 500px;
+}
+
+#header .full-width {
+width: 1400px;
+}
+
+#portfolio .full-width {
+width: 1400px;
+}
+
+#portfolio .half-width {
+width: 700px;
+}
+
+#about .full-width {
+width: 1400px;
+}
+
+#about .half-width {
+width: 700px;
+}
+
+#contact .full-width {
+width: 1400px;
+}
+
+#contact .third-width {
+width: 466.5px;
+}
+
+#contact .third-width-third {
+width: 155.5px;
+}
